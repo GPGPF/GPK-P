@@ -1,0 +1,28 @@
+.fourth h2{
+    margin-bottom: 30px;
+}
+.contactSection{
+    display: flex;
+    width: 100%;
+}
+.contactDetails,.contactForm{
+    width: 50%;
+}
+.contactForm label{
+    font-size: 20px;
+}
+.contactForm form input,textarea{
+   outline: none;
+   padding: 5px 8px;
+   font-size: 18px;
+}
+.contactForm form div:not(:last-child){
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.contactForm form{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
