@@ -227,7 +227,9 @@
     body .second .content .aboutme .btn {
         width: 100%;
     }
-    
+    body .third .skillcard .card{
+        height: 29%;
+    }
     body #scrollTop {
         width: 3em;
         height: 3em;
@@ -323,7 +325,7 @@
         font-size: .75em;
     }
     body .third .skillcard .card {
-        height: 21%;
+        height: 22%;
     }
     body .contactForm{
         padding: 0 1px;
