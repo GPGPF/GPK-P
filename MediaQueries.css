@@ -184,7 +184,7 @@
     }
     body .first .left{
         /* height: 80vh; */
-        padding: 20px 13px;
+        padding: 10px 13px;
     }
     body .first .content{
         flex-direction: column-reverse;
@@ -210,7 +210,7 @@
         height: auto;
     }
     body .first .right{
-        padding: 9.2em 0;
+        padding: 8.8em 0;
     }
     
     body .second .content{
@@ -268,7 +268,7 @@
         /* border: 1px solid black; */
     }
     body .first{
-        height: 81vh;
+        height: 77vh;
     }
     body .first .left{
         /* height: 80vh; */
