@@ -22,7 +22,7 @@ const updateNavColor = () => {
     const root = document.querySelector(':root');
     const hider = document.querySelector('.hider');
     const rs = getComputedStyle(root);
-    if (window.pageYOffset > 50) {
+    if (window.pageYOffset > 30) {
         nav.style.backgroundColor = rs.getPropertyValue('--nav-color');
         hider.style.backgroundColor = rs.getPropertyValue('--hider-color');
         // 
